@@ -31,3 +31,12 @@ Ensure both your **Raspberry Pi** and your **PC** are connected to the same Wi-F
 
    ```bash
    ls /dev/video*
+
+## 3. SSH Access via VS Code
+
+1. Open Visual Studio Code on your PC.
+2. Install the extension: Remote - SSH.
+3. Connect to the Raspberry Pi using:
+      @ Username: user
+      @ Password: user
+
